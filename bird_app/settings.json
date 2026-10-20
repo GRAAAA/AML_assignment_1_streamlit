@@ -1,0 +1,8 @@
+{
+  "size": 224,
+  "flip_tta": false,
+  "backbone": "ConvNeXtBase",
+  "run": "B01",
+  "score": "test Top-1 92.1%, average per class 91.9%",
+  "model_url": "https://github.com/GRAAAA/AML_assignment_1_streamlit/releases/download/model/model.keras"
+}
